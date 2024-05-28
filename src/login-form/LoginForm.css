@@ -1,0 +1,26 @@
+.login-container {
+    min-height: 100vh;
+    background-color: #1565c0; /* Niebieskie tło */
+}
+
+.login-paper {
+    padding: 40px;
+    text-align: center;
+    background-color: #ffffff; /* Białe tło formularza */
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.library-icon {
+    width: 100px; /* rozmiar logo */
+    margin-bottom: 20px; /* odstęp pod logiem */
+}
+
+.signup-link {
+    margin-top: 20px;
+    color: #666666; /* Kolor linku */
+}
